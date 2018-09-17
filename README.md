@@ -1,4 +1,5 @@
-# myIntegration
+# My [inte] gration
+
 ![Portada del proyecto myIntegration en el que aparece la cara de un hombre negro con antifaz, diseño de colores planos](https://www.medialab-prado.es/sites/default/files/styles/imagenes_medianas/public/project/image/my%20itegration%20vizualizar2%20.png?itok=ClAKnsBn "myIntegration")
 Proyecto creado para ser la voz de los sin voz por medio de la inclusión tecnológica. Se pretende correlacionar el big data y thick data como instrumentos que den suficiente conocimiento sobre los derechos y necesidades de los migrantes, refugiados, minorías y comunidades vulnerables, y que por medio de estos datos se puedan replantear espacios, ciudades y políticas inclusivas.
 
