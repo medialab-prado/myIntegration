@@ -1,3 +1,8 @@
+---
+layout: post
+title: Hola Mundo
+---
+
 Hola Mundo
 ==========
 
